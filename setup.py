@@ -7,7 +7,7 @@ requirements = [x.strip() for x in content]
 
 setup(
     name='pdf_porridge',
-    version="0.0.1",
+    version="0.0.3",
     description="Description",
     packages=find_packages(),
     install_requires=requirements,

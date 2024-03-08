@@ -7,7 +7,7 @@ scikit-learn
 # Visualization
 matplotlib
 seaborn
-yellowbrick
+
 
 # Jupyter
 notebook
@@ -34,4 +34,7 @@ streamlit
 # pytest-asyncio
 
 # Package specific
+streamlit-shadcn-ui  
+loguru
+pdfminer.six
 
